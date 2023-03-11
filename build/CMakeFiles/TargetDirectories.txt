@@ -1,0 +1,3 @@
+/home/user/Bureau/move_mouse/build/CMakeFiles/mouse_move.dir
+/home/user/Bureau/move_mouse/build/CMakeFiles/edit_cache.dir
+/home/user/Bureau/move_mouse/build/CMakeFiles/rebuild_cache.dir

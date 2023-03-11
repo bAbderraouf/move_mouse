@@ -10,6 +10,7 @@ int main()
     sf::Time cpt = clock.restart();
     float dt = 6  , elapsedTime_s = 0 , totalTime_s =  0;
     
+    std::cout << "To close the app press Alt-left + Alt-right \n";
 
     while(1)
     {
